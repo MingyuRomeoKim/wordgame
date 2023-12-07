@@ -1,0 +1,68 @@
+{
+    "lastBuildDate": "Mon, 27 Nov 2023 16:39:11 +0900",
+    "total": 246,
+    "start": 1,
+    "display": 10,
+    "items": [
+        {
+            "title": "<b>코스피<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=17151&cid=43659&categoryId=43659",
+            "description": "국내 종합주가지수. 유가증권시장본부(증권거래소)에 상장된 종목들의 주식 가격을 종합적으로 표시한 수치이다. 시장전체의 주가 움직임을 측정하는 지표로 이용되며, 투자성과 측정, 다른... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "종합주가지수",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=72147&cid=43667&categoryId=43667",
+            "description": " 증권시장에 상장된 기업의 전체적 주가를 기준시점과 비교하여 나타내는 지표.  | 외국어 표기 | KOSPI(영어) Korea Composite Stock Price Index(영어) | 주가지수는 주식시장 전체의 움직임을 파악하기... ",
+            "thumbnail": "https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxOTAxMDRfODIg%2FMDAxNTQ2NTk4MzU2MTYz.sQWk_aacpC_FLSvljEx2UerXrBE1Gx570N2Qjzpazvsg.PRSH0r6hio4S98jMhPH1pj0xWFO5aNmsm6vBb9Llphog.JPEG%2FIyYaJlnVJg7DZzC3FHp6L58soaws.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x351"
+        },
+        {
+            "title": "<b>코스피<\/b>",
+            "link": "https:\/\/terms.naver.com\/tlist\/list.naver?listId=1057001",
+            "description": "",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>코스피<\/b>지수",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=572726&cid=46630&categoryId=46630",
+            "description": " 증권거래소에 상장된 기업의 주식가격에 주식수를 가중평균하여 시가총액식으로 산출한 지수. KOSPI. [개설] 주식시장의 종합시황을 파악하기 위해서는 이를 대표할 수 있는 지수가 필요하다. 이는... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>코스피<\/b>지수",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=1202120&cid=40942&categoryId=31830",
+            "description": " 증권시장에 상장된 상장기업의 주식 변동을 기준시점과 비교시점을 비교하여 작성한 지표.  증권거래소에 상장된 주식의 증권시장지표 중에서 주식의 전반적인 동향을 가장 잘 나타내는 대표적인... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "KOSPI",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2075042&cid=42107&categoryId=42107",
+            "description": "한국증권거래소에 상장되어 거래되는 모든 주식을 대상으로 산출해 전체 장세의 흐름을 나타내는 지수. 한국증권거래소가 1972년 1월 4일부터 35개 회사를 선정하여 다우존스 방식으로 산출하였으나 더욱... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>코스피<\/b> 지수",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2074919&cid=42107&categoryId=42107",
+            "description": "<b>코스피<\/b> 지수의 기준 시점은 1980년 1월 4일로서 당일의 주가지수를 100으로 하고 있으며 상장된 보통주 전종목을 대상으로 산출하고 있다. 2005년 10월까지는 `한국 종합주가지수'로 불리었다.",
+            "thumbnail": ""
+        },
+        {
+            "title": "종합주가지수",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=9492&cid=43659&categoryId=43659",
+            "description": "증권시장에서 형성되는 개별주가를 총괄적으로 묶어 전체적인 주가를 나타내는 지표. 기준 시점 1980년 1월 4일의 주가 기준을 100으로 하여 비교시점의 주가 변화를 측정하기 위해 사용된다. 우리나라의... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "KOSPI",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=930757&cid=43667&categoryId=43667",
+            "description": " 증권시장에 상장된 기업의 전체적 주가를 기준시점과 비교하여 나타내는 지표.  | 외국어 표기 | Korea Composite Stock Price Index(영어) | 증권시장에서 1980년 1월 4일을 기준시점으로 하고 기준시점의... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "KOSPI",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=18640&cid=43659&categoryId=43659",
+            "description": "종합주가지수. 국내 거래소에 상장되어 거래되는 모든 주식을 대상으로 산출해 전체 장세의 흐름을 나타낸다.현재 KOSPI는 시가총액식 산출방법으로 계산되기 때문에 자본금이 큰 대형주의 주가 변동에... ",
+            "thumbnail": ""
+        }
+    ]
+}

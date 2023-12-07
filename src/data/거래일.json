@@ -1,0 +1,68 @@
+{
+    "lastBuildDate": "Mon, 27 Nov 2023 16:39:11 +0900",
+    "total": 137,
+    "start": 1,
+    "display": 10,
+    "items": [
+        {
+            "title": "<b>거래일<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=1390&cid=43659&categoryId=43659",
+            "description": "어음법이나 수표법에 따르면 <b>거래일<\/b>에는 국경일 공휴일 일요일 기타 일반 휴일을 제외한 날이 해당한다. 만약 어음이나 수표의 정해진 기간의 말일(未日)이 <b>거래일<\/b>이 아니면 그 뒤 제1 <b>거래일<\/b>까지 기간이... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>거래일<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=1058273&cid=40942&categoryId=31721",
+            "description": " 어음 ·수표법상의 권리행사나 보전에 관한 행위를 유효하게 할 수 있는 날.  국경일 ·공휴일 ·일요일 기타 일반 휴일을 제외한 날이 <b>거래일<\/b>에 해당한다(어음법 81조, 수표법 66조). 어음이나 수표의 정해진... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "거래장부",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2356260&cid=51373&categoryId=51373",
+            "description": " 거래처와의 각종 거래를 기록, 계산하여 <b>거래일<\/b> 순으로 작성한 장부.  거래장부란 당사와 거래처간의 거래내역을 <b>거래일<\/b> 순으로 일정한 양식으로 작성한 문서이다. 내용에 어떠한 거래가 진행되었는지 기록을... ",
+            "thumbnail": "http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209160500936_K3BK5GE7U.jpg\/ba17_4449_i1.jpg?type=m160_160"
+        },
+        {
+            "title": "거래대장",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2356672&cid=51373&categoryId=51373",
+            "description": "거래대장에는 거래가 이루어진 날짜, 내용, 금액 등을 기입하게 되며 일반적으로 <b>거래일<\/b>순으로 꼼꼼히 작성한다. 거래대장 작성을 통해 특정 <b>거래일<\/b>에 어떠한 거래가 많이 이루어졌는지 쉽게 파악이 가능하다.... ",
+            "thumbnail": "http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209162030165_JQPAQPGWF.jpg\/ba17_10221_i1.jpg?type=m160_160"
+        },
+        {
+            "title": "개별주식선물",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2065289&cid=50305&categoryId=50305",
+            "description": "지수선물과 마찬가지로 현금 결제(선물가격변동에 따른 손익 금액이 매일 정산되고 계약 기간이 끝나면 최종 손익 금액이 확정됨)방식을 채택하고 있으며 결제월의 두 번째 목요일이 최종<b>거래일<\/b>이며 최종... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "환매",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2076404&cid=50305&categoryId=50305",
+            "description": "선물거래에서 매도 미결제 약정을 최종<b>거래일<\/b> 이전에 매수해 손익을 확정하는 매매거래.",
+            "thumbnail": ""
+        },
+        {
+            "title": "전매",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2075496&cid=50305&categoryId=50305",
+            "description": "선물거래에서 매수 미결제 약정을 최종<b>거래일<\/b> 이전에 매도해 손익을 확정하는 매매거래.",
+            "thumbnail": ""
+        },
+        {
+            "title": "최종결제",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2066243&cid=50305&categoryId=50305",
+            "description": "최종<b>거래일<\/b>까지 전매나 환매되지 않은 약정에 대해 최종결제가격을 평가해차액을 수수하는 것.",
+            "thumbnail": ""
+        },
+        {
+            "title": "공매도 과열 종목 지정제",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=3651332&cid=43667&categoryId=43667",
+            "description": "   공매도를 통해 시세를 조종하는 것을 막기 위해 공매도 거래가 급증한 종목은 다음 <b>거래일<\/b>에 거래를 금지시키는 제도.  | 외국어 표기 | 空賣渡 過熱 種目 指定制(한자) | 공매도 거래가 급증한 종목에 대해... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "맞춤형상품제도",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2079732&cid=50305&categoryId=50305",
+            "description": "최종결제일 및 최종결제방법이 표준화된 미국달러선물거래와 별도로 거래당사자가 최종<b>거래일<\/b> 및 최종결제방법을 협의할 수 있는 제도",
+            "thumbnail": ""
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "lastBuildDate": "Mon, 27 Nov 2023 20:33:33 +0900",
+    "total": 1094,
+    "start": 1,
+    "display": 10,
+    "items": [
+        {
+            "title": "프로그래밍 언어 구조적 자료형",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2270406&cid=51173&categoryId=51173",
+            "description": "여러 자료를 묶어서 하나의 단위로 처리하는 자료형을 구조적 자료형(structured data type)이라 하는데, 배열과 레코드로 구분할 수 있다. 배열은 집합체에서의 위치로 원소를 식별하는 동질형 자료의... ",
+            "thumbnail": "http:\/\/openapi-dbscthumb.phinf.naver.net\/3523_000_1\/20141020113155523_UQQBSZY17.jpg\/ka7_96_i1.jpg?type=m160_160"
+        },
+        {
+            "title": "<b>구조체<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=6057449&cid=67350&categoryId=67350",
+            "description": "건축물 및 공작물에 작용하는 각종 하중에 대하여 그 건축물 및 공작물을 안전하게 지지하는 구조물의 뼈대 자체를 말하며, 일반적으로 부차<b>구조체<\/b>를 제외한 기본뼈대만을 말한다. 구체 참조. 참고... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>구조체<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=390655&cid=50348&categoryId=50348",
+            "description": "모든 부분이 상호간에 균등히 유지되고 평균상태에 있도록 계획된 구성.",
+            "thumbnail": ""
+        },
+        {
+            "title": "클래스",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=3532993&cid=58528&categoryId=58528",
+            "description": "[표 6-2 클래스와 객체의 예] || 클래스 || 객체 || | 승용차 | 소나타, 그랜져, SM5 | | 자동차 | 승용차, 버스, 트럭 | | 운송 수단 | 자동차, 배, 비행기 | 클래스와 비슷한 개념을 C 언어에서 찾으면 <b>구조체<\/b>(struct)를... ",
+            "thumbnail": "http:\/\/openapi-dbscthumb.phinf.naver.net\/4666_000_1\/20161005133744978_2DZRPSFG3.jpg\/ka37_163_i1.jpg?type=m160_160"
+        },
+        {
+            "title": "<b>구조체<\/b>식",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=838428&cid=50376&categoryId=50376",
+            "description": "PL\/ I 언어에 있어서 계산 결과가 <b>구조체<\/b>로 되는 식.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>구조체<\/b> 대입",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=838409&cid=50376&categoryId=50376",
+            "description": "PL\/I 언어에 있어서 대입문 중, 좌변이 <b>구조체<\/b> 변수 혹은 의사 변수이며, 우변이 <b>구조체<\/b>식 혹은 스칼라식인 것.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>구조체<\/b> 변수",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=838430&cid=50376&categoryId=50376",
+            "description": "PL\/I 언어에서 주<b>구조체<\/b>명과 세로 <b>구조체<\/b>명.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>구조체<\/b>의 배열",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=846667&cid=50371&categoryId=50371",
+            "description": "동일한 <b>구조체<\/b>의 순서가 부여된 집합체, 즉 <b>구조체<\/b> 자체가 배열의 형태를 갖추고 있는 것. <b>구조체<\/b>의 배열은 <b>구조체<\/b>의 이름에 차원 속성(次元屬性)을 갖게 하는 것이다.",
+            "thumbnail": ""
+        },
+        {
+            "title": "스텔스 메타<b>구조체<\/b> 제작 과정",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=6504923&cid=51648&categoryId=63595",
+            "description": "[스텔스 메타<b>구조체<\/b> 제작 과정] 적외선 카메라에 감지되지 않는 스텔스 기능을 메타구초제로 구현할 수 있다고 한다. 그렇다면 이 스텔스 메타<b>구조체<\/b>는 어떻게 만들어지는지 알아본다. ▶full영상... ",
+            "thumbnail": "https:\/\/phinf.pstatic.net\/tvcast\/20210914_66\/lWecS_1631606822125QsVKp_JPEG\/1cbac82e-141e-11ec-9845-505dacfbaa5c_10.jpg#1920x1080#m"
+        },
+        {
+            "title": "신호를 증폭시키는 메타<b>구조체<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=6504637&cid=51648&categoryId=63595",
+            "description": "[신호를 증폭시키는 메타<b>구조체<\/b>] 3D프린터를 이용해 초음파 신호를 증폭시키는 메타<b>구조체<\/b>를 만든 이학주 단장 연구팀. 초음파 신호를 증폭하면 신호를 멀리 보낼 수 있고 더 정확하게 신호를 잴 수... ",
+            "thumbnail": "https:\/\/phinf.pstatic.net\/tvcast\/20210908_283\/UmpXR_1631056031777Nrf7L_JPEG\/4e958861-1030-11ec-89ce-48df379ccacc_03.jpg#1920x1080#m"
+        }
+    ]
+}

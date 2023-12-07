@@ -1,0 +1,68 @@
+{
+    "lastBuildDate": "Mon, 27 Nov 2023 16:07:20 +0900",
+    "total": 342,
+    "start": 1,
+    "display": 10,
+    "items": [
+        {
+            "title": "<b>컴포넌트<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=17120&cid=43659&categoryId=43659",
+            "description": "<b>컴포넌트<\/b> 기술을 활용하면 복잡한 정보 시스템을 신속하게 구축할 수 있으며, 유사한 정보 시스템을 구축할 때 재사용이 가능한 장점이 있다. 특히, 급속도로 변하는 인터넷 환경에서 표준화된... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>컴포넌트<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2412653&cid=51399&categoryId=51399",
+            "description": "TV 수신카드, 디카, 게임기 등과 연결해 고화질로 시청할 수 있는 아날로그 단자입니다. 아날로그 단자 중에서 화질이 제일 우수하지만 음성과 영상을 따로 연결하여 선이 많아 불편한 점이 있습니다. 단자간... ",
+            "thumbnail": "http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_6\/20190725120605253_O6JKPHB3B.jpg\/fh2_80164_i1.jpg?type=m160_160"
+        },
+        {
+            "title": "<b>컴포넌트<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=270778&cid=42641&categoryId=42641",
+            "description": "신호(B-Y, R-Y)의 3가지 신호로 전송하기 때문에 고품질의 전송과 복사 품질을 보장한다. 컴퓨터 신호 역시 R, G, B 3가지 신호로 구성된 <b>컴포넌트<\/b> 신호의 하나로 모니터상에 TV보다 높은 해상도를 제공한다.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>컴포넌트<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=3474477&cid=58439&categoryId=58439",
+            "description": "일련의 인터페이스의 현실성을 제공하고, 확인, 구현이 일괄적으로 짜여진 시스템의 물리적이고 대체 가능한 부분이다.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>컴포넌트<\/b>도",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2764000&cid=50307&categoryId=50307",
+            "description": "클래스 기반 실행 단위인 <b>컴포넌트<\/b> 모음을 모델링한 다이어그램.",
+            "thumbnail": ""
+        },
+        {
+            "title": "카 <b>컴포넌트<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=1659701&cid=50324&categoryId=50324",
+            "description": "카 <b>컴포넌트<\/b> 스테레오를 말한다. 앰프, 튜너, 카세트 등의 구성 부품이 조합된 오디오 장치이다.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>컴포넌트<\/b>웨어",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=3435939&cid=42346&categoryId=42346",
+            "description": "간 연계 기능인 Active X(구 OLE:object linking and embedding)이다. Active X의 사양에 준거한 <b>컴포넌트<\/b>웨어를 Active X Control이라고 한다. 이 밖에 선 마이크로시스템즈사가 개발한 자바 애플릿(Java applet)이 있다.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>컴포넌트<\/b> 서버",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=859994&cid=42346&categoryId=42346",
+            "description": "<b>컴포넌트<\/b>란 데이터베이스와 데이터베이스의 조작으로 구성된 복수의 객체 집합체로서, 이들 객체가 연계하고 있는 1개의 기능을 실현한다. 부품을 짜 맞추는 것처럼 필요에 따라 이용자가 <b>컴포넌트<\/b>... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>컴포넌트<\/b> 시간",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=1596650&cid=50321&categoryId=50321",
+            "description": "<b>컴포넌트<\/b> 시간전자용어사전 계(系), 기기, 부품 등에 대해서 측정된 개개의 동작 시간 또는 시험 시간의 총계값. 외국어 표기 component hour(영어), -時間(한자) <b>컴포넌트<\/b>... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>컴포넌트<\/b> 단자",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=1845549&cid=42339&categoryId=42339",
+            "description": "<b>컴포넌트<\/b> 신호는 Y신호, 색차 신호 R-Y 및 B-Y의 신호를 세 개의 채널로 분류하여 각각 전송하기 때문에 화질의 열화를 효과적으로 제어한다. <b>컴포넌트<\/b> 단자는 S 단자보다 더 진보된 형태로 Y, CB, CR 신호를... ",
+            "thumbnail": ""
+        }
+    ]
+}

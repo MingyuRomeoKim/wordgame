@@ -1,0 +1,68 @@
+{
+    "lastBuildDate": "Mon, 27 Nov 2023 16:37:57 +0900",
+    "total": 31289,
+    "start": 1,
+    "display": 10,
+    "items": [
+        {
+            "title": "<b>연속<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=1126546&cid=40942&categoryId=32219",
+            "description": " 개구간 (a,b)에서 정의되어 있는 함수 f(x)가 이 구간에 속하는 한 점 a에서  xa f(x)가 존재하며 xa f(x)＝f(a) 를 만족시키면, 함수 f(x)는 x＝a에서 <b>연속<\/b>이라 하는데, 수학적으로 정확히 정의하면... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>연속<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=388327&cid=41978&categoryId=41985",
+            "description": "존재나 과정 속에 간격이나 비약이 없는 것을 <b>연속<\/b>이라고 하고, 간격이나 비약이 있는 것을 불<b>연속<\/b>이라 한다. 공간, 시간, 장(場), 활동 등은 <b>연속<\/b>이고, 서로 떨어져 있는 순간이나 점의 집합, 종자의 집합은... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>연속<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=395197&cid=50316&categoryId=50316",
+            "description": "측정면 보다 상부로의 <b>연속<\/b>은 상향<b>연속<\/b>이라 하고 하부로의 <b>연속<\/b>은 하향<b>연속<\/b>이라 한다. <b>연속<\/b>은 라플라스 방정식에서 디리클레 경계치문제의 해를 구하는 방법이 된다. 상향 <b>연속<\/b>은 아래와 같은 식으로 표현되며... ",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>연속<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=3482298&cid=58439&categoryId=58439",
+            "description": "서로 관련성이 있는 항목(객체 또는 값)의 순서 붙여진 모음. 논리적으로 <b>연속<\/b>은 대(對)(항목, 객체)집합이며, 괄호에서 <b>연속<\/b>을 구분 짓고 <b>연속<\/b>의 가운데 요소는 콤마로 구분하는 방법을 이 규격으로 이용된다.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>연속<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=511557&cid=50306&categoryId=50306",
+            "description": "사물이나 성질의 크기가 단절됨이 없이 계속되는 상태. 그러므로 크기의 변화는 선형(線形)으로 줄거나는다. 예컨대 지능지수(IQ)는 <b>연속<\/b>개념이다.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>연속<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=102417&cid=41826&categoryId=41826",
+            "description": "관청 등에서 업무를 돕는 하급 관리를 말함. [유사어]아전(衙前). [참고어]연방(掾房).",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>연속<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=836098&cid=50376&categoryId=50376",
+            "description": "“0”과 “1”로 이루어진 코드에서 같은 숫자가 연달아 나온 형태.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>연속<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=853174&cid=50371&categoryId=50371",
+            "description": "2개 이상의 처리에 시간적인 순서가 있는 것.",
+            "thumbnail": ""
+        },
+        {
+            "title": "<b>연속<\/b>",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=2799833&cid=55598&categoryId=55598",
+            "description": "돌이 끊이지 아니하고 죽 이어져 있는 모양.",
+            "thumbnail": ""
+        },
+        {
+            "title": "시리즈",
+            "link": "https:\/\/terms.naver.com\/entry.naver?docId=836862&cid=50376&categoryId=50376",
+            "description": "일련의 같은 종류에 접속할 수 있는 회로 소자. (1) 회로 부품을 그 한끝을 다른 회로 부품의 한끝에 접속하여 전류에 대해서 하나의 통로를 구성하는 것. (2) 전체를 구성하는 개개의 부분을 차례로 시간... ",
+            "thumbnail": ""
+        }
+    ]
+}
